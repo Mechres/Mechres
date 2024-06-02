@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yağız</h1>
 
 <!--
 **Mechres/Mechres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Bitcoin Price Prediction with Various Neural Networks](https://github.com/Mechres/bitcoin-prediction)
+
+
+- 🌱 I’m currently learning **Python, Julia, Rust, Machine Learning, LLM's**
+
+
