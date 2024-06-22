@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Bitcoin Price Prediction with Various Neural Networks](https://github.com/Mechres/bitcoin-prediction)
+- 🔭 I’m currently working on [Crypto & Stock Price Prediction with Various Neural Networks](https://github.com/Mechres/Price-Predict)
 
-
-- 🌱 I’m currently learning **Python, Julia, Rust, Machine Learning, LLM's**
+- 🌱 I’m currently learning **Python, Julia, Machine Learning, LLM's**
 
 
